@@ -1,0 +1,5 @@
+[tools]
+# Python 3.8.12
+# https://www.sublimetext.com/docs/api_environments.html#selecting-the-python-version
+# For autocomplete, copy from `Lib/python38`: `sublime.py`, `sublime_plugin.py`, `sublime_types.py`
+python = {version='3.8.12', virtualenv='.venv'}
